@@ -1,0 +1,2 @@
+裡面有各式分類器(lstm bilstm attention multichannel)
+利用這些分類器對心電圖的P波段進行分類
